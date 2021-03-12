@@ -1,3 +1,2 @@
-# b-ve_app
-app for healthcare:)
-just start contributing...
+# B+ App
+Android app for healthcare.
